@@ -8,8 +8,6 @@ node_modules/
 
 .idea/
 public/
-index.html
-!docs/index.html
 package.json
 tsconfig.json
 tsconfig.node.json
